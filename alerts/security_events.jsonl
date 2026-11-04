@@ -1,0 +1,9 @@
+{"timestamp": "2026-11-03T06:20:03.616227+00:00", "event": "TEST_ALERT", "details": "CyberShield alert system working"}
+{"timestamp": "2026-11-03T07:36:44.013717+00:00", "event": "MONITOR_STARTED", "details": "CyberShield real-time protection is running."}
+{"timestamp": "2026-11-03T07:40:23.551803+00:00", "event": "MONITOR_STARTED", "details": "CyberShield real-time protection is running."}
+{"timestamp": "2026-11-03T07:41:32.551374+00:00", "event": "MONITOR_STARTED", "details": "CyberShield real-time protection is running."}
+{"timestamp": "2026-11-03T07:42:45.467710+00:00", "event": "FILE_MODIFIED", "details": "demo.txt"}
+{"timestamp": "2026-11-03T07:42:45.490071+00:00", "event": "EVIDENCE_PRESERVED", "details": "MODIFIED FILE: /home/hunter/cybershield/evidence/20261103_074245_468766/demo.txt"}
+{"timestamp": "2026-11-03T07:54:50.567938+00:00", "event": "MONITOR_STARTED", "details": "CyberShield real-time protection is running."}
+{"timestamp": "2026-11-03T07:55:16.499892+00:00", "event": "FILE_MODIFIED", "details": "demo.txt"}
+{"timestamp": "2026-11-03T07:55:16.504516+00:00", "event": "EVIDENCE_PRESERVED", "details": "MODIFIED FILE: /home/hunter/cybershield/evidence/20261103_075516_500233/demo.txt"}

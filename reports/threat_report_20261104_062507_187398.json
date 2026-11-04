@@ -1,0 +1,12 @@
+{
+    "tool": "CyberShield",
+    "scan_time_utc": "2026-11-04T06:25:07.187398+00:00",
+    "target": "/home/hunter/cybershield/test_samples",
+    "summary": {
+        "scan_status": "COMPLETED",
+        "scanner_exit_code": 0,
+        "infected_count": 0,
+        "quarantine_copies_verified": 0
+    },
+    "findings": []
+}

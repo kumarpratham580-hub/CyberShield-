@@ -1,0 +1,18 @@
+{
+    "tool": "CyberShield",
+    "scan_time_utc": "2026-11-04T06:35:48.663317+00:00",
+    "target": "/home/hunter/cybershield/test_samples",
+    "summary": {
+        "scan_status": "COMPLETED",
+        "scanner_exit_code": 1,
+        "infected_count": 1,
+        "quarantine_copies_verified": 1
+    },
+    "findings": [
+        {
+            "file": "/home/hunter/cybershield/test_samples/eicar_test.com",
+            "detection": "Eicar-Test-Signature",
+            "status": "QUARANTINE_COPY_VERIFIED_ORIGINAL_PRESERVED"
+        }
+    ]
+}
