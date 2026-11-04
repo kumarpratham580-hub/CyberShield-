@@ -204,14 +204,6 @@ Suppose a user downloads a suspicious file.
 - Improved automated remediation with user approval.
 - Dashboard for security reports.
 
-## 👨‍💻 Author
-
-**Pratham Kumar**
-
-Diploma in Computer Science
-
-Project: CyberShield – Cybersecurity Threat Detection & File Protection System
-
 ## 📜 Disclaimer
 
 CyberShield is developed for educational purposes and authorized security testing only. Use it only on systems and files you own or have permission to inspect.
